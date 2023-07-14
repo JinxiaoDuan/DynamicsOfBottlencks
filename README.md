@@ -1,7 +1,7 @@
 # DynamicsOfBottlencks
 1: About code:
 
-(1) Put code of the bottleneck_dynamics.cpp, and the data in the input file in your project. 
+(1) Put code of the bottleneck_dynamics.cpp, and the data in the input file in the same project. 
 
 (2) Execute bottleneck_dynamics.cpp or bottleneck_dynamics.exe to calcalate the dynamics of traffic bottlencks in the entire network.
 
